@@ -118,11 +118,10 @@ This is done through sub interfaces
 theres also a `trace rt <addr>` command which is probably important, look it up
 
 ## Arp
-Will show the arp table (these are cmd/powershell/bash commands use on computer not switches/router)
 - `$ arp -a`
-Will delete the arp table
+Will show the arp table (these are cmd/powershell/bash commands use on computer not switches/router)
 - `$ arp -d`
-
+Will delete the arp table
 ## Change system config
 ### Hostname
 Go into admin mode, config mode, then change the hostname to 'Switch 3'
